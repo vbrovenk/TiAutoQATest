@@ -13,5 +13,5 @@ This is a C# console application which calculates parameters for triangles.
 ### Example of work
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/vbrovenk/TiAutoQATest/imgs/screen_app.jpg" />
+  <img src="https://github.com/vbrovenk/TiAutoQATest/blob/main/imgs/screen_app.png" />
 </div>
